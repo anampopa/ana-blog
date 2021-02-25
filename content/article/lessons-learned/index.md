@@ -1,9 +1,11 @@
 ---
 title: "More than just a testing book: Lessons Learned in Software Testing: A Context Driven Approach"
 date: 2020-09-10T18:10:14+01:00
+showDate: false
 
 tags: ['Testing Books', 'Testing','Exploratory Testing']
-author: "Lednerb"
+tags: ['Books', 'Testing']
+author: "Ana Maria Popa"
 noSummary: false
 
 resizeImages: false
@@ -26,9 +28,10 @@ Chapter 3: Testing techniques is particularly interesting because it gives a gre
 
 Some other memorable lessons in the book:
 
-Automation: when it should be done and when it shouldn’t. Which are the pitfalls but also advice on how to design your automated tests;
-Soft skills and the importance of a healthy relation with developers and stakeholders;
-How to mentor a testing team and set the right expectations with your team;
-How to hire best people and tricks for a successful interview;
-Which are the testing paths that you can choose from and how to manage your testing career.
+- Automation: when it should be done and when it shouldn’t. Which are the pitfalls but also advice on how to design your automated tests;
+- Soft skills and the importance of a healthy relation with developers and stakeholders;
+- How to mentor a testing team and set the right expectations with your team;
+- How to hire best people and tricks for a successful interview;
+- Which are the testing paths that you can choose from and how to manage your testing career.
+
 Even if it was published in 2001, this book gives you so much insight about testing and software quality. If you have a few years of experience, it is impossible not to find yourself in at least one of the stories. Read the lessons in the given order or read the ones that will get your interest. In any case you will have something to learn.

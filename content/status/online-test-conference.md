@@ -1,12 +1,12 @@
 ---
-date: 2020-12-07T10:45:44+02:00
+date: 2019-12-05T10:45:44+02:00
 
 icon: "fa-rocket"
 showDate: false
 
-tags: ['State of Testing', 'Testing','Testing Community']
+tags: ['Testing','Scrum','Agile Testing']
 ---
-State of Testing Survey
+A Modern Tester With Scrum Master Hat
 
-Fellow testers, take a few minutes to answer the
-[__survey__](https://qablog.practitest.com/state-of-testing/).
+Check out my presentation at [__OnlineTestConf__](https://www.onlinetestconf.com/) on how a Scrum Master role can be picked up
+by a tester: [__A Modern Tester With Scrum Master Hat__](https://www.youtube.com/watch?v=D9b6E4FYeIA&feature=emb_logo).

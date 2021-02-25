@@ -1,12 +1,17 @@
 ---
-date: 2020-12-07T10:45:44+02:00
+date: 2020-08-25T10:45:44+02:00
 
 icon: "fa-rocket"
 showDate: false
 
-tags: ['State of Testing', 'Testing','Testing Community']
+tags: ['Testing','TAU','Test Automation','Learning']
 ---
-State of Testing Survey
+Resources on Test Automation University
 
-Fellow testers, take a few minutes to answer the
-[__survey__](https://qablog.practitest.com/state-of-testing/).
+It is difficult to learn a new technology when you don't know the prerequisites. You know the destination but you
+don't know the way. People from [__Test Automation University__](https://testautomationu.applitools.com/) suggest the [__learning path__](https://testautomationu.applitools.com/learningpaths.html) for multiple
+topics.
+You can also find the related courses, provided by important names in testing field. Of course, a
+few hours course won't make you a master and you will have to dig a little deeper.
+But it is a good start for anyone interested in coding a few tests using any of the programming languages available
+on the site.

@@ -1,45 +1,45 @@
 ---
-title: "Agile Testing: A Practical Guide for Testers and Agile Teams"
-date: 2020-10-01T18:10:14+01:00
+title: "KPIs and Metrics in Testing"
+date: 2020-12-11T18:10:14+01:00
+showDate: false
 
-tags: ['Testing Books', 'Testing','Agile Testing']
-author: "Lednerb"
+tags: ['Testing Books', 'Testing','KPI']
+author: "Ana Maria Popa"
 noSummary: false
 
 resizeImages: false
 toc: false
 ---
-I received the book a couple of years ago from my Scrum Master (thanks Johan!). He was strongly recommending it for the entire team. So, another book suited not only for testers but for the entire team, especially in an agile environment.
+There is a question that keeps bugging me for a while: How to measure testing, what metrics should I take into consideration?
 
-No alt text provided for this image
-Nowadays, when everyone talks about Modern Testing and TestOps, this book might seem outdated but reading it can help familiarize with terms, practices and roles in agile. Before learning how to run, you have to know how to walk.
+Starting with the failed experience of reporting some indicators that were looking good for the management, but didn’t really help me or the end customers, I asked myself: is there any point in measuring some indicators for quality? Why should I even bother to look at some numbers if they don’t matter that much? What benefits will it bring?
 
-Since the authors, Janet Gregory and Lisa Crispin agreed on having a user story and requirements for this book made me realize from the very beginning that this is a different kind of book.
+WHY?
 
-Each chapter starts with a mind map for the specific chapter. If you are not using mind maps yet, this could be a good example.
+Like in my case, it can happen that the management is requesting us to explain our work and they need more than our word of trust. Or we want to make our work more visible. But the number of bugs, the number of automates tests or how much time does it take to run the regression suite doesn’t really matter for our end customer.
 
-In the first chapter we find out how the Agile Manifesto relates to testing and the authors introduce the “whole-team” approach to agile testing, which means that everyone involved with delivering software is responsible for delivering high-quality software. I remember this was the first time when I encountered this idea and it seemed quite intriguing to me. And could sound intriguing to anyone that is not part of a quality culture in their organization. Switching to agile and quality culture might be challenging but testers should be promoters and guide the team towards achieving the quality goals.
+Also, there is this word of wisdom that we cannot improve what we cannot measure.
 
-Agile Testing Quadrants are introduced by the authors in Chapter 6. This tool offer a complete way to categorize tests. It covers the business perspective, technology and quality perspective but it also take in consideration the tests that supports the team, in order to drive the requirements.
+I’ve partially found my answers in the book „Leading Quality: How Great Leaders Deliver High Quality Software & Accelerate Growth” by Owais Peer, Ronald Cummings-John.
 
-No alt text provided for this image
+![Leading Quality](/images/leading-quality.jpg)
 
+The issue to start with is that I wasn’t looking at the right picture. The metrics that testers should keep in mind should be more in-sync with the company’s business metrics. In most organizations, we can find big inconsistencies if we are looking at how we measure business success and how we measure QA success. The business metric usually focuses on a quantifiable result. The quality metrics on the other hand focuses on action rather than outcome and „typically has little measurable effect on the business outcome.”
 
-Image credit: https//lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/
+So, the purpose would be that the quality metrics should improve overall company growth.
 
-Each quadrant is described into a separate chapter. Reading each chapter in detail can help you to create a complete test strategy. Also a real project is presented, with test examples from each quadrant, including a test automation strategy.
+The authors of „Leading quality” suggest another approach on how to tackle this: „what metrics can your team affect that will have the biggest impact on your company? – this question reframes the whole dynamic by bridging the gap between growing the overall business and the focus of the quality teams. instead of seeing QA as a support function, it turns QA into a growth driver”
 
-Important aspects of the tester's role in an agile team are presented in Chapter 15. The presence of the tester in all development stages is critical. He/She can help identify different viewpoints, including business value, risks, technical implementation or how the feature will be used. Testers collaborate with customers to explore stories in detail and decide on high-level test cases. On the team's side, testers work closely with programmers and other team members to deliver a potentially releasable increment.
+That sounds nice. It would remove the misconceptions that might exist in some organization: testing is an impediment, testing increases the delivery time. But this it’s easier said than done.
 
-In the last chapter, seven key factors for successful agile testing are presented:
+HOW?
 
--Use the whole team approach;
--Adopt an agile testing mind-set;
--Automate regression testing;
--Provide and obtain feedback;
--Build a foundation of core practices;
--Collaborate with customers;
--Look at the big picture.
-The fact that testing and quality is the responsibility of the whole team is not a breaking news. I hope that in the agile teams, the tester is not the gatekeeper for the application anymore. What's a bit outdated in the book, in my opinion, is the idea that testers bring a special viewpoint and unique skills. With some training and coaching, everyone in the team could gain these skills. Tester's role resides more in creating the quality culture and coaching the entire team.
+Here’s the author’s advice:
 
-The add-on to "Agile Testing: A Practical Guide for Testers and Agile Teams" is "More Agile Testing: Learning Journeys for the Whole Team" which contains more practical examples. Or you can read the short version "Agile Testing Condensed: A Brief Introduction" which is a condensed overview.
+![Leading Quality](/images/kpi-testing.png)
+
+„To identify your growth metric, find out what the core value you provide to your customer is and use that as your measurement. Once you have identified what your company’s growth metric should be, begin to focus all quality activities on moving the metric. This allows you to align your teams around what helps the company grow”.
+
+Some examples that can help in this direction are: how many active users within a time period we have, engagement of the users, how many customers adopted the product, which is the cost per new customer or the profit.
+
+No matter what KPIs you are considering, it is important that you relate the numbers with the story behind them and make sure that whoever is looking at the numbers will also find out the context.

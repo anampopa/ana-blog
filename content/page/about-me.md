@@ -1,6 +1,6 @@
 ---
 title: "About me"
-date: 2017-11-01T13:18:45+01:00
+date: 2020-12-01T13:18:45+01:00
 showDate: false
 ---
 My name is Ana Maria Popa. I am a tester since 2013 and a certified Scrum Master since 2018.  

@@ -1,7 +1,9 @@
 ---
-title: "About Hugo and Bilberry"
-date: 2017-11-01T13:18:45+01:00
+title: "Hugo and Bilberry"
+date: 2019-11-01T13:18:45+01:00
 showDate: false
+excludeFromTopNav: false
+
 ---
 Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
 

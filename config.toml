@@ -1,4 +1,4 @@
-title = "Ana's blog"
+title = "A Tester's Adventure"
 baseURL = "https://anamariapopa.netlify.app/"
 theme = "bilberry-hugo-theme"
 
@@ -16,7 +16,7 @@ disqusShortname = "anamaria-blog"
 
 # Enable / Disable open link with a new tab.
 [blackfriday]
-  hrefTargetBlank = false
+  hrefTargetBlank = true
 
 [params]
   # Custom CSS / JS modules that will be imported by the template.
@@ -27,7 +27,7 @@ disqusShortname = "anamaria-blog"
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Lednerb"
+  author = "Ana Maria Popa"
   description = "Bilberry Premium Theme for Hugo."
   keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
 
@@ -56,13 +56,13 @@ disqusShortname = "anamaria-blog"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "I adore my husband, or so I made him think!"
+    subtitle = "More than Software Testing"
 
     # if you want to use libravatar or gravatar for the header image
-    avatarEmail = ""
+    avatarEmail = "anamaria.vasilica10@gmail.com"
 
     # set an path to the image file you want to use | overwrites avatar by email
-    customImage = "images/avatar.JPG"
+    customImage = ""
 
     # define the icon you want to use for the overlay for the customImage or avatar.
     overlayIcon = "fa-home"
@@ -75,7 +75,7 @@ disqusShortname = "anamaria-blog"
     stickyNav = false
 
     # show a language chooser in the header
-    showHeaderLanguageChooser = true
+    showHeaderLanguageChooser = false
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
@@ -84,7 +84,7 @@ disqusShortname = "anamaria-blog"
     # pinOnlyToFirstPage = true
 
     # enable automatical localization of the article's PublishedDate with momentjs
-    enableMomentJs = true
+    enableMomentJs = false
 
     # customize the date format | only works if momentjs is disabled | only works with English month names
     # you can customize it with the options you find here:
@@ -102,11 +102,11 @@ disqusShortname = "anamaria-blog"
 
     # How many articles should be displayed at latest posts in the footer?
     # Set to -1 to hide the 'Latest Posts' column
-    amountLatestPostsInFooter = 7
+    amountLatestPostsInFooter = 3
 
     # How many categories should be displayed in the footer section?
     # Set to -1 to hide the 'Categories' column
-    amountCategoriesInFooter = 7
+    amountCategoriesInFooter = 5
 
     # show a language chooser in the footer
     showFooterLanguageChooser = true
@@ -118,14 +118,13 @@ disqusShortname = "anamaria-blog"
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://twitter.com/TheRealLednerb", icon = "fab fa-twitter" },
-      { link = "https://github.com/Lednerb", icon = "fab fa-github" },
+      { link = "https://www.linkedin.com/in/ana-maria-popa/", icon = "fab fa-linkedin" },
     ]
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
-    copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2017"
+    copyrightBy = "by Ana Maria Popa"
+    copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
+    copyrightYearOverride = "2021"
     copyrightUrl = "https://github.com/Lednerb"
     creditsText = "Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
@@ -133,13 +132,13 @@ disqusShortname = "anamaria-blog"
 
 # customize your available languages for your multi-langual site
 # or delete the [Languages] blog to use the theme with only one supported language
-[Languages]
-  [Languages.en]
-    weight = 1
-  [Languages.de]
-    weight = 2
-    title = "Mein cooler neuer Blog"
-    subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
+#[Languages]
+ # [Languages.en]
+  #  weight = 1
+  #[Languages.de]
+   # weight = 2
+    #title = "Mein cooler neuer Blog"
+   # subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
 
 # don't change anything below
 [taxonomies]

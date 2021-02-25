@@ -1,12 +1,17 @@
 ---
-date: 2019-12-05T10:45:44+02:00
+date: 2020-10-20T10:45:44+02:00
 
 icon: "fa-rocket"
 showDate: false
 
-tags: ['Testing','Scrum','Agile Testing']
+tags: ['Testing','Domains of work']
 ---
-A Modern Tester With Scrum Master Hat
+Domains of work and Testing
 
-Check out my presentation at OnlineTestConf on how a Scrum Master role can be picked up
-by a tester: https://www.onlinetestconf.com/speakers/ana-maria-popa/vey__](https://qablog.practitest.com/state-of-testing/).
+Trying to locate yourself in a domain of work helps you understand better your role,
+which is the position on the market for the product you are testing and which are your client's expectations.
+James Bach defines, as an example, five domains of technical work in this
+[__article__](https://www.tricentis.com/blog/domains-of-work-demands-of-testing/)
+The fact that I can find myself in multiple domains at different moments, demonstrates the complexity of testing activity.
+It is impossible to identify with only one of the domains, otherwise we will soon start to see job titles
+such as: "Social Tester" or "Analytical Tester".

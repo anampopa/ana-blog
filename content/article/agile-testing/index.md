@@ -1,17 +1,18 @@
 ---
 title: "Agile Testing: A Practical Guide for Testers and Agile Teams"
 date: 2020-10-01T18:10:14+01:00
+showDate: false
 
 tags: ['Testing Books', 'Testing','Agile Testing']
-author: "Lednerb"
+tags: ['Books', 'Testing']
+author: "Ana Maria Popa"
 noSummary: false
 
 resizeImages: false
-toc: true
+toc: false
 ---
 I received the book a couple of years ago from my Scrum Master (thanks Johan!). He was strongly recommending it for the entire team. So, another book suited not only for testers but for the entire team, especially in an agile environment.
 
-No alt text provided for this image
 Nowadays, when everyone talks about Modern Testing and TestOps, this book might seem outdated but reading it can help familiarize with terms, practices and roles in agile. Before learning how to run, you have to know how to walk.
 
 Since the authors, Janet Gregory and Lisa Crispin agreed on having a user story and requirements for this book made me realize from the very beginning that this is a different kind of book.
@@ -22,10 +23,7 @@ In the first chapter we find out how the Agile Manifesto relates to testing and 
 
 Agile Testing Quadrants are introduced by the authors in Chapter 6. This tool offer a complete way to categorize tests. It covers the business perspective, technology and quality perspective but it also take in consideration the tests that supports the team, in order to drive the requirements.
 
-No alt text provided for this image
-
-
-Image credit: https//lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/
+![Agile Testing Quadrants](/images/Agile-Testing-Quadrants.png)
 
 Each quadrant is described into a separate chapter. Reading each chapter in detail can help you to create a complete test strategy. Also a real project is presented, with test examples from each quadrant, including a test automation strategy.
 
@@ -33,13 +31,14 @@ Important aspects of the tester's role in an agile team are presented in Chapter
 
 In the last chapter, seven key factors for successful agile testing are presented:
 
--Use the whole team approach;
--Adopt an agile testing mind-set;
--Automate regression testing;
--Provide and obtain feedback;
--Build a foundation of core practices;
--Collaborate with customers;
--Look at the big picture.
+- Use the whole team approach;
+- Adopt an agile testing mind-set;
+- Automate regression testing;
+- Provide and obtain feedback;
+- Build a foundation of core practices;
+- Collaborate with customers;
+- Look at the big picture.
+
 The fact that testing and quality is the responsibility of the whole team is not a breaking news. I hope that in the agile teams, the tester is not the gatekeeper for the application anymore. What's a bit outdated in the book, in my opinion, is the idea that testers bring a special viewpoint and unique skills. With some training and coaching, everyone in the team could gain these skills. Tester's role resides more in creating the quality culture and coaching the entire team.
 
 The add-on to "Agile Testing: A Practical Guide for Testers and Agile Teams" is "More Agile Testing: Learning Journeys for the Whole Team" which contains more practical examples. Or you can read the short version "Agile Testing Condensed: A Brief Introduction" which is a condensed overview.

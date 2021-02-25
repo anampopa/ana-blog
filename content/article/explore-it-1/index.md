@@ -1,33 +1,38 @@
 ---
-title: "To all the Good Evil Testers out there: Dear Evil Tester"
-date: 2020-10-01T18:10:14+01:00
+title: "In order to truly understand anything, you have to explore it"
+date: 2020-09-10T18:10:14+01:00
+showDate: false
 
-tags: ['Testing Books', 'Testing','Agile Testing']
+tags: ['Testing Books', 'Testing','Exploratory Testing']
+tags: ['Books', 'Testing']
 author: "Ana Maria Popa"
 noSummary: false
 
 resizeImages: false
 toc: false
 ---
-"Dear Evil Tester" is a book from Yonder testing bookshelf. This is how I got the chance to read it. It is written in Alan Richardson's unique style.
 
-I don't think you will find another testing book that will make you laugh out loud as this one (unless it's so bad that it's funny).
+"Explore It! Reduce the Risk and Increase Confidence with Exploratory Testing" is the second book in my list. Part of Pragmatic Bookshelf, reading it made me change my testing mindset, improve my skills and helped me discover new and useful heuristics. Elisabeth Hendrickson's book is full of stories and practical example and should be kept on any tester's desk in order to be consulted at need.
 
 No alt text provided for this image
-It includes 3 parts. The first one contains answers to the letters received by the author at "The Testing Planet". The second contains pieces of advice. The advice you can perhaps find also in other books but the parallels with psychology, philosophy or even children books makes this part really out of the box. The third part contains essays which summaries the attitudes and approaches evidenced in the letter answers.
+This is not a book that you can read while laying in the bed. Each chapter ends with a section titled "Practice Sessions" that will help you put in practice the concepts in the chapter right away.
 
-The book is scattered with slogans, sketches created by the author and even poems so Alan Richardson is using his creativity at his best.
+Exploratory testing is not just clicking around, hoping that you will run into a bug, as many people might think. If we are looking for a definition, the one of James Bach might be a proper one. In 2003 paper, "Exploratory Testing Explained", he mentioned that "Exploratory testing is simultaneous learning, test design and test execution". So it's a process that involves a lot of thinking and decision making.
 
-The slogans the author writes are really memorable. They became inspirational mottos for me. Here are a few of them:
+The truth is that anyone can do exploratory testing but in order to do it efficiently, you have to have a well established purpose, otherwise you will just wandering around, losing precious time.
 
-- "Not all testers are evil, just the good ones"
-- "I’m not Evil, I’m necessary"
-- "May all your good testing dreams come true"
-- "Yup, that's what testers try to do. We cheat, get over it."
-- "If Pinocchio were an experienced test manager and he wrote in a test strategy “Testing will demonstrate that the system is fit for purpose to go live”. Would his nose grow?"
-- "If someone gives you something and asks you to test it again and again and again. How do your eyes not fire up? How does your trident not tingle with delight? How can you not be ager to test? How is that possible?"
-  The brand that Alan Richardson created around Evil Tester is standing out in a good way. It is indeed as he mentions in his first answer "deliberately engaging in false advertising for shock effect". Behind the black humor and the fine irony you can find good advice based on data, facts and experience.
+As the author of the book suggests, a system should be explored in sessions for which you set the focus in advance. These sessions are time-boxed and you should take notes so you know what you explored and what information you found. For a good exploratory session, a charter should be created containing:
 
-![The Evil Tester](/images/evil_laugh.png)
-I also strongly recommend "Java for testers" by the same author. It is a technical book and this is why I didn't include it in my initial list that contained books which help improving the testing mindset. You can read Alan Richardson's [__blog__](https://www.eviltester.com/blog/), he also has many courses or you can listen to his podcast: [__The Evil Tester Show__](https://www.eviltester.com/show/).
+- Target: Where are you exploring? It could be a feature, a requirement, or a module.
+- Resources: What resources will you use? It could be anything from a tool, a data set, a technique, a configuration, or an independent feature.
+- Information: What kind of information are you hoping to find? Is your focus the security, performance, reliability of the system.
+  ![Exploratory Chart](/images/chart.png)
+
+A good charter should be short and concise and should not be anything like a test case.
+
+The book contains a lot of interesting heuristics, how to use variables and their variations, how to recognize entities, attributes and dependencies between them, how to play with data and find the fine weakness in your system.
+
+It is in this book that I first encountered the personas technique, the "never and always" or the "nightmare headline game" that I always apply now when I'm evaluating a system.
+
+Exploratory testing doesn't apply only when there is an interface. You can explore an API, a programming language, a web service, the requirements or why not, you can asses the exploratory skills of a candidate using an exploratory session. For more information, you should definitely read the book.
 
