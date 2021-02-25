@@ -1,7 +1,6 @@
 ---
-title: "About Bilberry"
+title: "About Hugo and Bilberry"
 date: 2017-11-01T13:18:45+01:00
-excludeFromTopNav: false
 showDate: false
 ---
 Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
@@ -16,7 +15,7 @@ It is full of little nice features, such as:
 - full internationalization (i18n) support (en, de, fr, ru, es out of the box!)
 - full mutli-language support
 - custom post types (`article`, `audio`, `code`, `gallery`, `link`, `page`, `picture`, `quote`, `video`)
-    - easy configuration to add more according to your needs
+  - easy configuration to add more according to your needs
 
 
 *This Bilberry theme is inspired by the Lingonberry theme from [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/)*
