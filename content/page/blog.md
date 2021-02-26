@@ -6,5 +6,5 @@ date: 2020-11-01T13:17:56+01:00
 
 link: "https://anamariapopa.netlify.app/"
 # set the html target parameter if you want to change default behavior
-target: "_blank"
+
 ---
