@@ -5,7 +5,7 @@ icon: "fa-rocket"
 showDate: false
 
 tags: ['Testing','Scrum','Agile Testing']
-categories: ['Thought of the Day', 'Testing']
+categories: ['Thought of the Day']
 ---
 A Modern Tester With Scrum Master Hat
 

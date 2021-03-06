@@ -5,7 +5,7 @@ icon: "fa-rocket"
 showDate: false
 
 tags: ['Testers Pub', 'Testing','Testing Community']
-categories: ['Thought of the Day', 'Testing']
+categories: ['Thought of the Day']
 ---
 Tester's Pub at Yonder
 

@@ -5,7 +5,7 @@ icon: "fa-rocket"
 showDate: false
 
 tags: ['Testing','TAU','Test Automation','Learning']
-categories: ['Thought of the Day', 'Testing']
+categories: ['Thought of the Day']
 ---
 Resources on Test Automation University
 

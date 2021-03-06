@@ -9,7 +9,7 @@ author: "Ana Maria Popa"
 noSummary: false
 
 resizeImages: false
-toc: true
+toc: false
 ---
 A list of books is just a list unless you've read the books, you processed the information and you have an opinion about it. So I'm going to write a few thoughts about the books that I mentioned in my previous post.
 

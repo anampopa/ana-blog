@@ -5,7 +5,7 @@ icon: "fa-rocket"
 showDate: false
 
 tags: ['Testing','Testing Podcast']
-categories: ['Testing', 'Thought of the Day']
+categories: ['Thought of the Day']
 ---
 Testing and Frustrations
 

@@ -6,7 +6,7 @@ showDate: false
 
 
 tags: ['Testing','Domains of work']
-categories: ['Thought of the Day', 'Testing']
+categories: ['Thought of the Day']
 ---
 Domains of work and Testing
 
