@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on A Tester&#39;s Adventure</title>
+    <link>https://anamariapopa.netlify.app/tags/community/</link>
+    <description>Recent content in Community on A Tester&#39;s Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Mar 2021 18:10:14 +0100</lastBuildDate><atom:link href="https://anamariapopa.netlify.app/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another way of using Test Sphere</title>
+      <link>https://anamariapopa.netlify.app/article/test-sphere/</link>
+      <pubDate>Mon, 01 Mar 2021 18:10:14 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/article/test-sphere/</guid>
+      <description>Test Sphere is a card deck about (obviously) testing from Ministry of Testing. The cards are treating different aspects, being divided in 5 categories:
+ Heuristics, Techniques, Feelings, Quality aspects, Patterns.  Each card presents a testing concept and 3 directions to tackle the concept.
+It is usually used to create a testing approach, for risk storming or in scrum events such as planning (to look at the next increment in a different way) or retrospectives (especially the cards in Feelings category).</description>
+    </item>
+    
+  </channel>
+</rss>

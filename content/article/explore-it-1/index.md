@@ -4,7 +4,7 @@ date: 2020-09-10T18:10:14+01:00
 showDate: false
 
 tags: ['Testing Books', 'Testing','Exploratory Testing']
-tags: ['Books', 'Testing']
+categories: ['Articles','Books', 'Testing']
 author: "Ana Maria Popa"
 noSummary: false
 

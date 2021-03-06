@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploratory Testing on A Tester&#39;s Adventure</title>
+    <link>https://anamariapopa.netlify.app/tags/exploratory-testing/</link>
+    <description>Recent content in Exploratory Testing on A Tester&#39;s Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Sep 2020 18:10:14 +0100</lastBuildDate><atom:link href="https://anamariapopa.netlify.app/tags/exploratory-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In order to truly understand anything, you have to explore it</title>
+      <link>https://anamariapopa.netlify.app/article/explore-it-1/</link>
+      <pubDate>Thu, 10 Sep 2020 18:10:14 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/article/explore-it-1/</guid>
+      <description>&amp;ldquo;Explore It! Reduce the Risk and Increase Confidence with Exploratory Testing&amp;rdquo; is the second book in my list. Part of Pragmatic Bookshelf, reading it made me change my testing mindset, improve my skills and helped me discover new and useful heuristics. Elisabeth Hendrickson&amp;rsquo;s book is full of stories and practical example and should be kept on any tester&amp;rsquo;s desk in order to be consulted at need.
+No alt text provided for this image This is not a book that you can read while laying in the bed.</description>
+    </item>
+    
+    <item>
+      <title>More than just a testing book: Lessons Learned in Software Testing: A Context Driven Approach</title>
+      <link>https://anamariapopa.netlify.app/article/lessons-learned/</link>
+      <pubDate>Thu, 10 Sep 2020 18:10:14 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/article/lessons-learned/</guid>
+      <description>A list of books is just a list unless you&amp;rsquo;ve read the books, you processed the information and you have an opinion about it. So I&amp;rsquo;m going to write a few thoughts about the books that I mentioned in my previous post.
+I will start with &amp;ldquo;Lessons Learned in Software Testing: A Context Driven Approach&amp;rdquo; by Cem Kaner, James Bach and Bret Pettichord. It is a compilation of testing related stories, experience gathered by the authors along many years, summarized in 293 lessons.</description>
+    </item>
+    
+  </channel>
+</rss>

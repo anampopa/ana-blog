@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on A Tester&#39;s Adventure</title>
+    <link>https://anamariapopa.netlify.app/page/</link>
+    <description>Recent content in Pages on A Tester&#39;s Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Dec 2020 13:18:45 +0100</lastBuildDate><atom:link href="https://anamariapopa.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://anamariapopa.netlify.app/page/about-me/</link>
+      <pubDate>Tue, 01 Dec 2020 13:18:45 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/page/about-me/</guid>
+      <description>My name is Ana Maria Popa. I am a tester since 2013 and a certified Scrum Master since 2018.
+I love testing and I love learning. This blog is my attempt to combine these two with a third one, which I also do with enthusiasm: knowledge sharing. But I will also use this blog to practice writing and for taking notes for myself and future me or pin some interesting ideas that I run into.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://anamariapopa.netlify.app/page/blog/</link>
+      <pubDate>Sun, 01 Nov 2020 13:17:56 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/page/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo and Bilberry</title>
+      <link>https://anamariapopa.netlify.app/page/about-hugo/</link>
+      <pubDate>Fri, 01 Nov 2019 13:18:45 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/page/about-hugo/</guid>
+      <description>Bilberry is a premium theme for the Hugo Static Website Builder.
+It is full of little nice features, such as:
+ built-in integration for the wonderful algolia search built-in integration for the powerful disqus comments gravatar and custom image integration for the header keyboard shortcut for the search (press the s key, type something and hit enter or esc) responsive design - optimized for desktop and mobile devices full internationalization (i18n) support (en, de, fr, ru, es out of the box!</description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://anamariapopa.netlify.app/page/github/</link>
+      <pubDate>Thu, 01 Nov 2018 13:17:56 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/page/github/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

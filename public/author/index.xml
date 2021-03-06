@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on A Tester&#39;s Adventure</title>
+    <link>https://anamariapopa.netlify.app/author/</link>
+    <description>Recent content in Author on A Tester&#39;s Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Mar 2021 18:10:14 +0100</lastBuildDate><atom:link href="https://anamariapopa.netlify.app/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ana Maria Popa</title>
+      <link>https://anamariapopa.netlify.app/author/ana-maria-popa/</link>
+      <pubDate>Mon, 01 Mar 2021 18:10:14 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/author/ana-maria-popa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mary Catherine Bateson</title>
+      <link>https://anamariapopa.netlify.app/author/mary-catherine-bateson/</link>
+      <pubDate>Tue, 23 Feb 2021 14:40:32 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/author/mary-catherine-bateson/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

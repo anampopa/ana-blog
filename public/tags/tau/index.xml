@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TAU on A Tester&#39;s Adventure</title>
+    <link>https://anamariapopa.netlify.app/tags/tau/</link>
+    <description>Recent content in TAU on A Tester&#39;s Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 25 Aug 2020 10:45:44 +0200</lastBuildDate><atom:link href="https://anamariapopa.netlify.app/tags/tau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://anamariapopa.netlify.app/status/test-automation-univ/</link>
+      <pubDate>Tue, 25 Aug 2020 10:45:44 +0200</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/status/test-automation-univ/</guid>
+      <description>Resources on Test Automation University
+It is difficult to learn a new technology when you don&amp;rsquo;t know the prerequisites. You know the destination but you don&amp;rsquo;t know the way. People from Test Automation University suggest the learning path for multiple topics. You can also find the related courses, provided by important names in testing field. Of course, a few hours course won&amp;rsquo;t make you a master and you will have to dig a little deeper.</description>
+    </item>
+    
+  </channel>
+</rss>

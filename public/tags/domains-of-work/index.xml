@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domains of work on A Tester&#39;s Adventure</title>
+    <link>https://anamariapopa.netlify.app/tags/domains-of-work/</link>
+    <description>Recent content in Domains of work on A Tester&#39;s Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Oct 2020 10:45:44 +0200</lastBuildDate><atom:link href="https://anamariapopa.netlify.app/tags/domains-of-work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://anamariapopa.netlify.app/status/domains-of-work/</link>
+      <pubDate>Tue, 20 Oct 2020 10:45:44 +0200</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/status/domains-of-work/</guid>
+      <description>Domains of work and Testing
+Trying to locate yourself in a domain of work helps you understand better your role, which is the position on the market for the product you are testing and which are your client&amp;rsquo;s expectations. James Bach defines, as an example, five domains of technical work in this link{:target=&amp;quot;_blank&amp;quot;}
+article
+The fact that I can find myself in multiple domains at different moments, demonstrates the complexity of testing activity.</description>
+    </item>
+    
+  </channel>
+</rss>

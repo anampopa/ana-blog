@@ -4,7 +4,7 @@ date: 2020-10-01T18:10:14+01:00
 showDate: false
 
 tags: ['Testing Books', 'Testing','Agile Testing']
-tags: ['Books', 'Testing']
+categories: ['Articles','Books', 'Testing']
 author: "Ana Maria Popa"
 noSummary: false
 

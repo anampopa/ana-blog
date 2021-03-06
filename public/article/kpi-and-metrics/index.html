@@ -1,0 +1,411 @@
+
+    
+
+    
+        
+    
+
+    
+
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="siteBaseUrl" content="https://anamariapopa.netlify.app/">
+    <meta name="author" content="Ana Maria Popa">
+    <meta name="description" content="Bilberry Premium Theme for Hugo.">
+    <meta name="keywords" content="blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts">
+    <meta name="generator" content="Hugo 0.80.0" />
+    <title>
+        
+           
+               KPIs and Metrics in Testing &vert; A Tester&#39;s Adventure
+           
+        
+    </title>
+    <meta name="description" content="KPIs and Metrics in Testing - Bilberry Premium Theme for Hugo.">
+    <meta itemprop="name" content="KPIs and Metrics in Testing">
+    <meta itemprop="description" content="KPIs and Metrics in Testing - Bilberry Premium Theme for Hugo.">
+    <meta property="og:title" content="KPIs and Metrics in Testing">
+    <meta property="og:description" content="KPIs and Metrics in Testing - Bilberry Premium Theme for Hugo.">
+    <meta property="og:image" content="https://anamariapopa.netlify.app/article/kpi-and-metrics/featuredImage.png">
+    <meta property="og:url" content="https://anamariapopa.netlify.app/article/kpi-and-metrics/">
+    <meta property="og:site_name" content="A Tester&#39;s Adventure">
+    <meta property="og:type" content="article">
+
+    
+
+
+    <script src="/modernizr-simple.js"></script>
+
+    
+    <link href="/article/kpi-and-metrics/" rel="alternate" type="application/rss+xml" title="A Tester&#39;s Adventure" />
+    <link href="/article/kpi-and-metrics/" rel="feed" type="application/rss+xml" title="A Tester&#39;s Adventure" />
+    
+
+    
+
+    <link rel="stylesheet" href="https://anamariapopa.netlify.app/theme.css">
+
+    
+
+    
+        
+    
+</head>
+
+<body class="bilberry-hugo-theme">
+
+    
+    <nav>
+
+    <div class="container">
+        <ul class="topnav">
+            
+                
+                    <li><a href="https://anamariapopa.netlify.app/page/about-me/">About me</a></li>
+                
+            
+                
+                    <li><a href="/" target="">Blog</a></li>
+                
+            
+                
+                    
+                
+            
+                
+                    
+                
+            
+        </ul>
+
+        
+            <div id="search-box" class="search">
+                <i class="fas fa-search"></i>
+                <input id="search" type="text" placeholder="Search ...">
+            </div>
+        
+    </div>
+</nav>
+
+
+    
+    <header>
+
+        <div class="container">
+            <div class="logo">
+                <a href="/" class="logo">
+                    
+                        
+                        
+                            
+                        
+                        <img src="https://seccdn.libravatar.org/avatar/c631d142728a28d09fd7df223005d364?d=mm&size=200" alt="">
+                    
+
+                    <span class="overlay"><i class="fa fa-home"></i></span>
+                </a>
+            </div>
+            <div class="titles">
+                <h3 class="title">
+                    <a href="/">
+                        A Tester&#39;s Adventure
+                    </a>
+                </h3>
+
+                
+                    <span class="subtitle">More than Software Testing</span>
+                
+            </div>
+
+            
+
+            
+                <div class="toggler">
+            
+                    <i class="fa fa-bars" aria-hidden="true"></i>
+                </div>
+            </div>
+    </header>
+
+
+    <div class="main container">
+        
+    <div class="article-wrapper u-cf single">
+        
+            <a class="bubble" href="https://anamariapopa.netlify.app/article/kpi-and-metrics/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+    <div class="featured-image">
+        <a href="https://anamariapopa.netlify.app/article/kpi-and-metrics/">
+            
+                <img src="/article/kpi-and-metrics/featuredImage.png" alt="">
+            
+        </a>
+    </div>
+
+
+    <div class="content">
+    <h1 class="article-title">
+        <a href="https://anamariapopa.netlify.app/article/kpi-and-metrics/">
+            KPIs and Metrics in Testing
+        </a>
+    </h1>
+
+    <div class="meta">
+        
+
+        
+            
+                <span class="readingTime">3 min read</span>
+            
+        
+
+        
+            <span class="categories">
+                
+                    
+                    
+                        <a href="https://anamariapopa.netlify.app/categories/articles/">Articles</a>
+                    
+                
+                    
+                    
+                        <a href="https://anamariapopa.netlify.app/categories/testing/">Testing</a>
+                    
+                
+            </span>
+        
+
+        
+            <span class="author">
+                
+                
+                    <a href="https://anamariapopa.netlify.app/author/ana-maria-popa/">Ana Maria Popa</a>
+                
+            </span>
+        
+    </div>
+
+    
+        
+
+        <p>There is a question that keeps bugging me for a while: How to measure testing, what metrics should I take into consideration?</p>
+<p>Starting with the failed experience of reporting some indicators that were looking good for the management, but didn’t really help me or the end customers, I asked myself: is there any point in measuring some indicators for quality? Why should I even bother to look at some numbers if they don’t matter that much? What benefits will it bring?</p>
+<p>WHY?</p>
+<p>Like in my case, it can happen that the management is requesting us to explain our work and they need more than our word of trust. Or we want to make our work more visible. But the number of bugs, the number of automates tests or how much time does it take to run the regression suite doesn’t really matter for our end customer.</p>
+<p>Also, there is this word of wisdom that we cannot improve what we cannot measure.</p>
+<p>I’ve partially found my answers in the book „Leading Quality: How Great Leaders Deliver High Quality Software &amp; Accelerate Growth” by Owais Peer, Ronald Cummings-John.</p>
+<p><img src="/images/leading-quality.jpg" alt="Leading Quality"></p>
+<p>The issue to start with is that I wasn’t looking at the right picture. The metrics that testers should keep in mind should be more in-sync with the company’s business metrics. In most organizations, we can find big inconsistencies if we are looking at how we measure business success and how we measure QA success. The business metric usually focuses on a quantifiable result. The quality metrics on the other hand focuses on action rather than outcome and „typically has little measurable effect on the business outcome.”</p>
+<p>So, the purpose would be that the quality metrics should improve overall company growth.</p>
+<p>The authors of „Leading quality” suggest another approach on how to tackle this: „what metrics can your team affect that will have the biggest impact on your company? – this question reframes the whole dynamic by bridging the gap between growing the overall business and the focus of the quality teams. instead of seeing QA as a support function, it turns QA into a growth driver”</p>
+<p>That sounds nice. It would remove the misconceptions that might exist in some organization: testing is an impediment, testing increases the delivery time. But this it’s easier said than done.</p>
+<p>HOW?</p>
+<p>Here’s the author’s advice:</p>
+<p><img src="/images/kpi-testing.png" alt="Leading Quality"></p>
+<p>„To identify your growth metric, find out what the core value you provide to your customer is and use that as your measurement. Once you have identified what your company’s growth metric should be, begin to focus all quality activities on moving the metric. This allows you to align your teams around what helps the company grow”.</p>
+<p>Some examples that can help in this direction are: how many active users within a time period we have, engagement of the users, how many customers adopted the product, which is the cost per new customer or the profit.</p>
+<p>No matter what KPIs you are considering, it is important that you relate the numbers with the story behind them and make sure that whoever is looking at the numbers will also find out the context.</p>
+
+    
+</div>
+
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    
+                    
+                    <a href="https://anamariapopa.netlify.app/tags/testing-books/">Testing Books</a>
+                    
+                
+                    
+                    
+                    <a href="https://anamariapopa.netlify.app/tags/testing/">Testing</a>
+                    
+                
+                    
+                    
+                    <a href="https://anamariapopa.netlify.app/tags/kpis/">KPIs</a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+</div>
+
+</article>
+
+        
+    </div>
+
+    
+        <div id="comments-container">
+            <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "anamaria-blog" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            
+    <script defer src="https://commento.lednerb.de/js/commento.js"></script>
+    <div id="commento"></div>
+
+
+        </div>
+    
+
+    </div>
+
+    
+<footer>
+    <div class="container">
+
+        
+        <div class="recent-posts">
+            <strong>Latest posts</strong>
+            <ul>
+                
+                
+                    <li>
+                        <a href="https://anamariapopa.netlify.app/article/test-sphere/">Another way of using Test Sphere</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://anamariapopa.netlify.app/article/kpi-and-metrics/">KPIs and Metrics in Testing</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://anamariapopa.netlify.app/article/evil-tester/">To all the Good Evil Testers out there: Dear Evil Tester</a>
+                    </li>
+                
+            </ul>
+        </div>
+        
+
+        
+        <div class="categories">
+            <a href="/categories/"><strong>Categories</strong></a>
+            <ul>
+                
+                <li>
+                    <a href="/categories/testing">Testing
+                        (13)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/articles">Articles
+                        (6)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/thought-of-the-day">Thought of the day
+                        (6)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/books">Books
+                        (5)</a>
+                </li>
+                
+                <li>
+                    <a href="/categories/post-of-the-day">Post of the day
+                        (1)</a>
+                </li>
+                
+            </ul>
+        </div>
+        
+
+        <div class="right">
+            
+            <div class="external-profiles">
+                <strong>Social media</strong>
+
+                
+                <a href="https://www.linkedin.com/in/ana-maria-popa/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                
+            </div>
+            
+
+            
+        </div>
+    </div>
+</footer>
+
+
+<div class="credits">
+    <div class="container">
+        <div class="copyright">
+            <a href="https://github.com/Lednerb" target="_blank">
+                &copy;
+                
+                2021
+                
+                by Ana Maria Popa
+            </a>
+            
+        </div>
+        <div class="author">
+            <a href="https://github.com/Lednerb/bilberry-hugo-theme"
+                target="_blank">Bilberry Hugo Theme</a>
+        </div>
+    </div>
+</div>
+
+
+    
+
+    
+
+
+    <script type="text/javascript" src="https://anamariapopa.netlify.app/theme.js"></script>
+
+    
+    
+    
+
+    
+    <div id="activate-algolia-search" class="hidden">
+  <input type="hidden" id="algolia-search-appId" value="BH0LHFDPQN">
+  <input type="hidden" id="algolia-search-apiKey" value="c8ff9830aedbdb29f368f6e957bb16ab">
+  <input type="hidden" id="algolia-search-indexName" value="blog_ANA">
+  <input type="hidden" id="algolia-search-noSearchResults" value="Nothing found.">
+
+  
+  <input type="hidden" id="algolia-search-currentLanguageOnly">
+  
+</div>
+
+    
+</body>
+
+</html>

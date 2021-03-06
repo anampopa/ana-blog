@@ -3,7 +3,8 @@ title: "KPIs and Metrics in Testing"
 date: 2020-12-11T18:10:14+01:00
 showDate: false
 
-tags: ['Testing Books', 'Testing','KPI']
+tags: ['Testing Books', 'Testing','KPIs']
+categories: ['Articles', 'Testing']
 author: "Ana Maria Popa"
 noSummary: false
 

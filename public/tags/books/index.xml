@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on A Tester&#39;s Adventure</title>
+    <link>https://anamariapopa.netlify.app/tags/books/</link>
+    <description>Recent content in Books on A Tester&#39;s Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Nov 2017 18:01:26 +0100</lastBuildDate><atom:link href="https://anamariapopa.netlify.app/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books about testing</title>
+      <link>https://anamariapopa.netlify.app/status/testing-books/</link>
+      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/status/testing-books/</guid>
+      <description>Here&amp;rsquo;s a list of books that I find useful for testers:
+ Lessons Learned in Software Testing Explore It! Agile Testing Dear Evil Tester  Reading them helps a lot in creating the mindset, improving your vocabulary so you can better express your view when needed and you can learn from other people&amp;rsquo;s experience</description>
+    </item>
+    
+  </channel>
+</rss>

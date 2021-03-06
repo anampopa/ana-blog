@@ -2,7 +2,7 @@
 title: " Mary Catherine Bateson - How to become a systems thinker"
 date: 2021-02-23T14:40:32+01:00
 
-categories: ['Quote']
+categories: ['Quotes']
 author: "Mary Catherine Bateson"
 ---
 Great majority of Americans still believe that "Positive feedback" is when someone pats you on the back 
@@ -11,4 +11,6 @@ So, if what you’re doing is taking heroin or quarreling with your neighbor, th
 to lead to trouble. Negative feedback corrects what you’re doing. It’s not somebody saying, 
 "That was a lousy speech." It’s somebody saying, "Reverse course. Stop building more bombs. 
 Stop taking in more alcohol faster. Slow down." Negative feedback is corrective feedback.
-See the original article: [__How to be a system thinker__](https://www.edge.org/conversation/mary_catherine_bateson-how-to-be-a-systems-thinker) 
+See the original article: 
+
+[__How to be a system thinker__](https://www.edge.org/conversation/mary_catherine_bateson-how-to-be-a-systems-thinker) 

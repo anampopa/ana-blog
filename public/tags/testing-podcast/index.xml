@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing Podcast on A Tester&#39;s Adventure</title>
+    <link>https://anamariapopa.netlify.app/tags/testing-podcast/</link>
+    <description>Recent content in Testing Podcast on A Tester&#39;s Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Aug 2020 10:45:44 +0200</lastBuildDate><atom:link href="https://anamariapopa.netlify.app/tags/testing-podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://anamariapopa.netlify.app/status/testing-one-on-one/</link>
+      <pubDate>Fri, 28 Aug 2020 10:45:44 +0200</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/status/testing-one-on-one/</guid>
+      <description>Testing and Frustrations
+Listening to this episode in Testing One on One podcast made me thing about the strong feelings (I will not use the word frustration) I have about testing. For example, why most of the people that want to start a career in IT think they should begin with testing, &amp;ldquo;because it&amp;rsquo;s easier&amp;rdquo;. Or why testing/testers are not getting the same importance as developing/developers. After all, we all are in the same boat and should have the same goal: happy customers.</description>
+    </item>
+    
+  </channel>
+</rss>

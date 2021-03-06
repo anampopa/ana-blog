@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing Books on A Tester&#39;s Adventure</title>
+    <link>https://anamariapopa.netlify.app/tags/testing-books/</link>
+    <description>Recent content in Testing Books on A Tester&#39;s Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Dec 2020 18:10:14 +0100</lastBuildDate><atom:link href="https://anamariapopa.netlify.app/tags/testing-books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KPIs and Metrics in Testing</title>
+      <link>https://anamariapopa.netlify.app/article/kpi-and-metrics/</link>
+      <pubDate>Fri, 11 Dec 2020 18:10:14 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/article/kpi-and-metrics/</guid>
+      <description>There is a question that keeps bugging me for a while: How to measure testing, what metrics should I take into consideration?
+Starting with the failed experience of reporting some indicators that were looking good for the management, but didn’t really help me or the end customers, I asked myself: is there any point in measuring some indicators for quality? Why should I even bother to look at some numbers if they don’t matter that much?</description>
+    </item>
+    
+    <item>
+      <title>Agile Testing: A Practical Guide for Testers and Agile Teams</title>
+      <link>https://anamariapopa.netlify.app/article/agile-testing/</link>
+      <pubDate>Thu, 01 Oct 2020 18:10:14 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/article/agile-testing/</guid>
+      <description>I received the book a couple of years ago from my Scrum Master (thanks Johan!). He was strongly recommending it for the entire team. So, another book suited not only for testers but for the entire team, especially in an agile environment.
+Nowadays, when everyone talks about Modern Testing and TestOps, this book might seem outdated but reading it can help familiarize with terms, practices and roles in agile. Before learning how to run, you have to know how to walk.</description>
+    </item>
+    
+    <item>
+      <title>To all the Good Evil Testers out there: Dear Evil Tester</title>
+      <link>https://anamariapopa.netlify.app/article/evil-tester/</link>
+      <pubDate>Thu, 01 Oct 2020 18:10:14 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/article/evil-tester/</guid>
+      <description>&amp;ldquo;Dear Evil Tester&amp;rdquo; is a book from Yonder testing bookshelf. This is how I got the chance to read it. It is written in Alan Richardson&amp;rsquo;s unique style.
+I don&amp;rsquo;t think you will find another testing book that will make you laugh out loud as this one (unless it&amp;rsquo;s so bad that it&amp;rsquo;s funny).
+No alt text provided for this image It includes 3 parts. The first one contains answers to the letters received by the author at &amp;ldquo;The Testing Planet&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>In order to truly understand anything, you have to explore it</title>
+      <link>https://anamariapopa.netlify.app/article/explore-it-1/</link>
+      <pubDate>Thu, 10 Sep 2020 18:10:14 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/article/explore-it-1/</guid>
+      <description>&amp;ldquo;Explore It! Reduce the Risk and Increase Confidence with Exploratory Testing&amp;rdquo; is the second book in my list. Part of Pragmatic Bookshelf, reading it made me change my testing mindset, improve my skills and helped me discover new and useful heuristics. Elisabeth Hendrickson&amp;rsquo;s book is full of stories and practical example and should be kept on any tester&amp;rsquo;s desk in order to be consulted at need.
+No alt text provided for this image This is not a book that you can read while laying in the bed.</description>
+    </item>
+    
+    <item>
+      <title>More than just a testing book: Lessons Learned in Software Testing: A Context Driven Approach</title>
+      <link>https://anamariapopa.netlify.app/article/lessons-learned/</link>
+      <pubDate>Thu, 10 Sep 2020 18:10:14 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/article/lessons-learned/</guid>
+      <description>A list of books is just a list unless you&amp;rsquo;ve read the books, you processed the information and you have an opinion about it. So I&amp;rsquo;m going to write a few thoughts about the books that I mentioned in my previous post.
+I will start with &amp;ldquo;Lessons Learned in Software Testing: A Context Driven Approach&amp;rdquo; by Cem Kaner, James Bach and Bret Pettichord. It is a compilation of testing related stories, experience gathered by the authors along many years, summarized in 293 lessons.</description>
+    </item>
+    
+  </channel>
+</rss>

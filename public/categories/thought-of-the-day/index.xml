@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thought of the Day on A Tester&#39;s Adventure</title>
+    <link>https://anamariapopa.netlify.app/categories/thought-of-the-day/</link>
+    <description>Recent content in Thought of the Day on A Tester&#39;s Adventure</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Nov 2020 10:45:44 +0200</lastBuildDate><atom:link href="https://anamariapopa.netlify.app/categories/thought-of-the-day/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://anamariapopa.netlify.app/status/testers-pub/</link>
+      <pubDate>Wed, 11 Nov 2020 10:45:44 +0200</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/status/testers-pub/</guid>
+      <description>Tester&amp;rsquo;s Pub at Yonder
+Testers&#39; Pub este un eveniment de suflet pentru mine deoarece am fost de față când a luat naștere ideea și am participat într-o măsură mai mică sau mai mare la fiecare ediție. Ediția asta trecem în online. La fel ca mai toate evenimentele de acest gen. Chiar dacă s-a schimbat contextul, scopul Testers&#39; Pub rămâne același: sa adune oamenii pasionați de testare, sa facem share de informații, să învățăm împreună, participanți, cei care prezintă sau organizatori.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anamariapopa.netlify.app/status/domains-of-work/</link>
+      <pubDate>Tue, 20 Oct 2020 10:45:44 +0200</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/status/domains-of-work/</guid>
+      <description>Domains of work and Testing
+Trying to locate yourself in a domain of work helps you understand better your role, which is the position on the market for the product you are testing and which are your client&amp;rsquo;s expectations. James Bach defines, as an example, five domains of technical work in this link{:target=&amp;quot;_blank&amp;quot;}
+article
+The fact that I can find myself in multiple domains at different moments, demonstrates the complexity of testing activity.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anamariapopa.netlify.app/status/testing-one-on-one/</link>
+      <pubDate>Fri, 28 Aug 2020 10:45:44 +0200</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/status/testing-one-on-one/</guid>
+      <description>Testing and Frustrations
+Listening to this episode in Testing One on One podcast made me thing about the strong feelings (I will not use the word frustration) I have about testing. For example, why most of the people that want to start a career in IT think they should begin with testing, &amp;ldquo;because it&amp;rsquo;s easier&amp;rdquo;. Or why testing/testers are not getting the same importance as developing/developers. After all, we all are in the same boat and should have the same goal: happy customers.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anamariapopa.netlify.app/status/test-automation-univ/</link>
+      <pubDate>Tue, 25 Aug 2020 10:45:44 +0200</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/status/test-automation-univ/</guid>
+      <description>Resources on Test Automation University
+It is difficult to learn a new technology when you don&amp;rsquo;t know the prerequisites. You know the destination but you don&amp;rsquo;t know the way. People from Test Automation University suggest the learning path for multiple topics. You can also find the related courses, provided by important names in testing field. Of course, a few hours course won&amp;rsquo;t make you a master and you will have to dig a little deeper.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://anamariapopa.netlify.app/status/online-test-conference/</link>
+      <pubDate>Thu, 05 Dec 2019 10:45:44 +0200</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/status/online-test-conference/</guid>
+      <description>A Modern Tester With Scrum Master Hat
+Check out my presentation at OnlineTestConf on how a Scrum Master role can be picked up by a tester: A Modern Tester With Scrum Master Hat.</description>
+    </item>
+    
+    <item>
+      <title>Books about testing</title>
+      <link>https://anamariapopa.netlify.app/status/testing-books/</link>
+      <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
+      
+      <guid>https://anamariapopa.netlify.app/status/testing-books/</guid>
+      <description>Here&amp;rsquo;s a list of books that I find useful for testers:
+ Lessons Learned in Software Testing Explore It! Agile Testing Dear Evil Tester  Reading them helps a lot in creating the mindset, improving your vocabulary so you can better express your view when needed and you can learn from other people&amp;rsquo;s experience</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,7 +3,7 @@ title: "Books about testing"
 date: 2017-11-01T18:01:26+01:00
 showDate: false
 
-categories: ['Books', 'Testing']
+categories: ['Books', 'Testing', 'Thought of the Day']
 tags: ['Books', 'Testing']
 author: "Ana Maria Popa"
 noSummary: true
