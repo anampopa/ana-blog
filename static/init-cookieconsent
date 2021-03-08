@@ -1,0 +1,13 @@
+https://cmp.osano.com/16CVpySQzIjn227up/7ac7adb8-1231-4e75-9b7f-87341221d7eb/osano.js
+window.addEventListener('load', function () {
+  window.cookieconsent.initialise({
+    'palette': {
+      'popup': {
+        'background': '#cc0033'
+      },
+      'button': {
+        'background': '#fff'
+      }
+    }
+  })
+})
