@@ -32,18 +32,18 @@ Some time ago, I thought about putting the Test Sphere at a different use: bondi
 a competitive, yet resourceful activity. We previously had similar activities on testing topics and we called those "challenges".
 So I called this one "Autumn Testing Challenge", because it took place during the 3 months of Autumn.
 
-Soon all my colleagues in testing community joined the activity. We worked in teams made of 3 members and we balanced the teams 
+Soon all my colleagues in the testing community joined the activity. We worked in teams made of 3 members and we balanced the teams 
 in order to have testers with more experience working together with testers that wanted to learn more.
 
-Each week, a card from 3 random categories were picked up and sent to the teams.
+Each week, cards from 3 random categories were picked up and sent to the teams.
 Each team had to debate and offer their perspective on the topic. The solution was presented to the rest
 of the participants and then voted.
 
 ![Test Sphere cards](/images/TestSphere.jpg)
 
 At the end the teams were awarded for Popularity: number of votes from people outside the team, 
-Fair play: number of votes for other teams and the Winner for the total number of votes.
+Fair play: number of votes for other teams, and the Winner for the total number of votes.
 
-The most exciting part from this challenge (apart from the prizes) was the teams getting together, brainstorming
+The most exciting part from this challenge (apart from the prize) was the teams getting together, brainstorming
 and sharing ideas so, in my opinion, the purpose of this card game was achieved, and results were visible in
 people's enthusiasm and involvement.
