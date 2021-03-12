@@ -1,7 +1,7 @@
 ---
 title: "Books about testing"
 date: 2017-11-01T18:01:26+01:00
-showDate: false
+showDate: true
 
 categories: ['Books', 'Testing']
 tags: ['Books', 'Testing']

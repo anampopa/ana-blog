@@ -1,7 +1,7 @@
 ---
 title: "Agile Testing: A Practical Guide for Testers and Agile Teams"
 date: 2020-10-01T18:10:14+01:00
-showDate: false
+showDate: true
 
 tags: ['Testing Books', 'Testing','Agile Testing']
 categories: ['Articles','Books', 'Testing']

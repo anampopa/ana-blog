@@ -1,7 +1,7 @@
 ---
 title: "Another way of using Test Sphere"
 date: 2021-03-01T18:10:14+01:00
-showDate: false
+showDate: true
 
 tags: ['Testing','Test Sphere', 'Learning', 'Community']
 categories: ['Articles', 'Testing']
@@ -41,8 +41,11 @@ of the participants and then voted.
 
 ![Test Sphere cards](/images/TestSphere.jpg)
 
-At the end the teams were awarded for Popularity: number of votes from people outside the team, 
-Fair play: number of votes for other teams, and the Winner for the total number of votes.
+At the end the teams were awarded for:
+
+* Popularity: number of votes from people outside the team, 
+* Fair play: number of votes for other teams, 
+* Winner for the total number of votes.
 
 The most exciting part from this challenge (apart from the prize) was the teams getting together, brainstorming
 and sharing ideas so, in my opinion, the purpose of this card game was achieved, and results were visible in

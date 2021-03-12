@@ -2,7 +2,7 @@
 date: 2020-08-25T10:45:44+02:00
 
 icon: "fa-rocket"
-showDate: false
+showDate: true
 
 tags: ['Testing','TAU','Test Automation','Learning']
 categories: ['Thought of the Day']

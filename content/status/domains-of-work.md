@@ -2,7 +2,7 @@
 date: 2020-10-20T10:45:44+02:00
 
 icon: "fa-rocket"
-showDate: false
+showDate: true
 
 
 tags: ['Testing','Domains of work']

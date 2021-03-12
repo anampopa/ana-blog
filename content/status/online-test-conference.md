@@ -2,7 +2,7 @@
 date: 2019-12-05T10:45:44+02:00
 
 icon: "fa-rocket"
-showDate: false
+showDate: true
 
 tags: ['Testing','Scrum','Agile Testing']
 categories: ['Thought of the Day']

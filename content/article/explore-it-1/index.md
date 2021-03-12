@@ -1,7 +1,7 @@
 ---
 title: "In order to truly understand anything, you have to explore it"
 date: 2020-09-10T18:10:14+01:00
-showDate: false
+showDate: true
 
 tags: ['Testing Books', 'Testing','Exploratory Testing']
 categories: ['Articles','Books', 'Testing']

@@ -2,7 +2,7 @@
 date: 2020-08-28T10:45:44+02:00
 
 icon: "fa-rocket"
-showDate: false
+showDate: true
 
 tags: ['Testing','Testing Podcast']
 categories: ['Thought of the Day']

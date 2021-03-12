@@ -109,7 +109,7 @@ disqusShortname = ""
     amountCategoriesInFooter = 5
 
     # show a language chooser in the footer
-    showFooterLanguageChooser = true
+    showFooterLanguageChooser = false
 
     # social media profile urls for the footer links
     showSocialMedia = true

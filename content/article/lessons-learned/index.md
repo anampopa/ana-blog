@@ -1,7 +1,7 @@
 ---
 title: "More than just a testing book: Lessons Learned in Software Testing: A Context Driven Approach"
 date: 2020-09-10T18:10:14+01:00
-showDate: false
+showDate: true
 
 tags: ['Testing Books', 'Testing','Exploratory Testing']
 categories: ['Articles','Books', 'Testing']

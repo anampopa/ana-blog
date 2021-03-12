@@ -1,7 +1,7 @@
 ---
 title: "To all the Good Evil Testers out there: Dear Evil Tester"
 date: 2020-10-01T18:10:14+01:00
-showDate: false
+showDate: true
 
 tags: ['Testing Books', 'Testing','Agile Testing']
 categories: ['Articles','Books', 'Testing']
