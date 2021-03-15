@@ -1,6 +1,6 @@
 ---
 title: "Quotes"
-date: 2020-09-03T13:17:56+01:00
+date: 2020-08-03T13:17:56+01:00
 
 # set the link if you want to redirect the user.
 

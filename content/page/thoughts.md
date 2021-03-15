@@ -1,6 +1,6 @@
 ---
 title: "Thoughts"
-date: 2020-08-04T13:17:56+01:00
+date: 2020-09-04T13:17:56+01:00
 draft: false
 # set the link if you want to redirect the user.
 
