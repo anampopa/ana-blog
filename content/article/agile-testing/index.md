@@ -25,6 +25,8 @@ Agile Testing Quadrants are introduced by the authors in Chapter 6. This tool of
 
 ![Agile Testing Quadrants](/images/Agile-Testing-Quadrants.png)
 
+*Photo credit: Lisa Crispin Agile Testing Quadrants https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/
+
 Each quadrant is described into a separate chapter. Reading each chapter in detail can help you to create a complete test strategy. Also a real project is presented, with test examples from each quadrant, including a test automation strategy.
 
 Important aspects of the tester's role in an agile team are presented in Chapter 15. The presence of the tester in all development stages is critical. He/She can help identify different viewpoints, including business value, risks, technical implementation or how the feature will be used. Testers collaborate with customers to explore stories in detail and decide on high-level test cases. On the team's side, testers work closely with programmers and other team members to deliver a potentially releasable increment.

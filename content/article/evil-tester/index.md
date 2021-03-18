@@ -31,5 +31,8 @@ The slogans the author writes are really memorable. They became inspirational mo
   The brand that Alan Richardson created around Evil Tester is standing out in a good way. It is indeed as he mentions in his first answer "deliberately engaging in false advertising for shock effect". Behind the black humor and the fine irony you can find good advice based on data, facts and experience.
 
 ![The Evil Tester](/images/evil_laugh.png)
+*Photo credit: Alan Richaardson, The Evil Tester https://www.eviltester.com/blog/
+
+
 I also strongly recommend "Java for testers" by the same author. It is a technical book and this is why I didn't include it in my initial list that contained books which help improving the testing mindset. You can read Alan Richardson's [__blog__](https://www.eviltester.com/blog/), he also has many courses or you can listen to his podcast: [__The Evil Tester Show__](https://www.eviltester.com/show/).
 

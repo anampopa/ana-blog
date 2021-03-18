@@ -7,7 +7,6 @@ tags: ['Testing','Test Sphere', 'Learning', 'Community']
 categories: ['Articles', 'Testing']
 author: "Ana Maria Popa"
 noSummary: false
-
 resizeImages: false
 toc: false
 ---
