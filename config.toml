@@ -12,7 +12,7 @@ DefaultContentLanguage = "en"
 googleAnalytics = ""
 
 # Enable / Disable comments on the articles via Disqus.
-disqusShortname = ""
+disqusShortname = "anamaria-blog"
 
 # Enable / Disable open link with a new tab.
 [blackfriday]
@@ -46,7 +46,7 @@ disqusShortname = ""
     algolia_currentLanguageOnly = true
 
   # Enable / Disable comments on the articles via commento
-  commentoJsURL = "https://cdn.commento.io/js/commento.js"
+  commentoJsURL = ""
 
   # Media configuration
     # let hugo automatically resize and crop your images to the correct sizes
