@@ -1,19 +1,19 @@
 ---
-date: 2020-10-20T10:45:44+02:00
+date: 2021-04-08T00:45:44+02:00
 
 icon: "fa-rocket"
 showDate: true
 
 
-tags: ['Testing','Domains of work']
+tags: ['Testing','State of Testing']
 categories: ['Thoughts']
 ---
-Domains of work and Testing
+State of Testing Report 2021
 
-Trying to locate yourself in a domain of work helps you understand better your role,
-which is the position on the market for the product you are testing and which are your client's expectations.
-James Bach defines, as an example, five domains of technical work in this [__article.__](https://www.tricentis.com/blog/domains-of-work-demands-of-testing/ ) 
+The wait is finally over! 
 
-The fact that I can find myself in multiple domains at different moments, demonstrates the complexity of testing activity.
-It is impossible to identify with only one of the domains, otherwise we will soon start to see job titles
-such as: "Social Tester" or "Analytical Tester".
+2021 State of Testing Report is here.
+You can download it from [__PractiTest site__](https://www.practitest.com/resource/state-of-testing-report-2021/).
+
+On April 28th, PractiTest will also host a discussion webinar to review the main aspects of the report.
+You can sign up for the discussion in [__here__](https://www.practitest.com/qa-learningcenter/webinars/learn-from-the-2021-state-of-testing-report/).
